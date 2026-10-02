@@ -26,7 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=gcp,vscode,figma,sketchup&theme=dark)](https://skillicons.dev)
 
 ### 💻 Operating System
-[![My Skills](https://skillicons.dev/icons?i=windows,apple,kali,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,kali,linux,arch&theme=dark)](https://skillicons.dev)
 
 ---
 
